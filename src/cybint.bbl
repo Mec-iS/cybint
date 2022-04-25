@@ -1,0 +1,333 @@
+\begin{thebibliography}{10}
+
+\bibitem{Aaronson10.5555/2487754}
+Scott Aaronson.
+\newblock {\em Quantum Computing since Democritus}.
+\newblock Cambridge University Press, 2013.
+\newblock page 112 briefly: \textquote{having a vector of 1-norm probabilities,
+  what happens if you try to come up with a theory that is like probability
+  theory but based on a 2-norm (Euclidean norm)?}
+
+\bibitem{ashby1991principles}
+W~Ross Ashby.
+\newblock Principles of the self-organizing system.
+\newblock In {\em Facets of systems science}, pages 521--536. Springer, 1991.
+
+\bibitem{ashby2014design}
+W.R. Ashby.
+\newblock {\em Design for a Brain: The Origin of Adaptive Behavior}.
+\newblock Martino Fine Books, 2014.
+
+\bibitem{Cheng2016}
+Zhi~(Aaron) Cheng, Angelika Dimoka, and Paul~A. Pavlou.
+\newblock Context may be king, but generalizability is the emperor!
+\newblock {\em Journal of Information Technology}, 31(3):257--264, 2016.
+
+\bibitem{chomsky2015syntactic}
+N.~Chomsky.
+\newblock {\em Syntactic Structures}.
+\newblock Janua linguarum: Series minor. Martino Fine Books, 2015.
+\newblock paragraph 2.4.
+
+\bibitem{CS166dyngraphs}
+Stanford CS166.
+\newblock Dynamic graphs, 2014.
+\newblock
+  \href{https://web.stanford.edu/class/archive/cs/cs166/cs166.1146/lectures/17/Small17.pdf}{link}.
+
+\bibitem{ASChistoryrefs}
+AMERICAN SOCIETY~FOR CYBERNETICS.
+\newblock Our history of cybernetics, 2001.
+\newblock \href{https://asc-cybernetics.org/foundations/historyrefs.htm}{link}.
+
+\bibitem{doi:10.1057}
+Robert~M Davison and Maris~G Martinsons.
+\newblock Context is king! considering particularism in research design and
+  reporting.
+\newblock {\em Journal of Information Technology}, 31(3):241--249, 2016.
+
+\bibitem{ROSNAYhistcyb}
+J.~de~Rosnay.
+\newblock History of cybernetics and systems science.
+\newblock {\em Principia Cybernetica Web}, 2000.
+\newblock \href{http://pespmc1.vub.ac.be/CYBSHIST.html}{link}.
+
+\bibitem{dennett2008kinds}
+D.C. Dennett.
+\newblock {\em Kinds Of Minds: Toward An Understanding Of Consciousness}.
+\newblock Science Masters. Basic Books, 2008.
+
+\bibitem{dennett2014intuition}
+D.C. Dennett.
+\newblock {\em Intuition Pumps And Other Tools for Thinking}.
+\newblock Norton paperback. W. W. Norton, 2014.
+
+\bibitem{dennett2017bacteria}
+D.C. Dennett.
+\newblock {\em From Bacteria to Bach and Back: The Evolution of Minds}.
+\newblock Penguin Books Limited, 2017.
+
+\bibitem{dijkstra1978fly}
+Edsger~W Dijkstra, Leslie Lamport, Alain~J. Martin, Carel~S. Scholten, and
+  Elisabeth~FM Steffens.
+\newblock On-the-fly garbage collection: An exercise in cooperation.
+\newblock {\em Communications of the ACM}, 21(11):966--975, 1978.
+
+\bibitem{Grassi2021}
+Grassi. Bartesaghi.~Clemente. Duc.
+\newblock The multilayer architecture of the global input-output network and
+  its properties.
+\newblock {\em Arxiv}, 2021.
+\newblock \href{https://arxiv.org/abs/2109.02946}{link}.
+
+\bibitem{DUPUYmechanization}
+Jean{-}Pierre Dupuy.
+\newblock {\em The Mechanization of the Mind: On the Origins of Cognitive
+  Science}.
+\newblock Princeton University Press, 2000.
+
+\bibitem{BRANDESnetwork}
+Ulrik Brandes.~Thomas Erlebach.
+\newblock {\em Network Analysis}.
+\newblock Springer-Verlag Berlin/Heidelberg, 2005.
+
+\bibitem{Takeuchi2011}
+Takeuchi K. Sano M. Sasamoto~T. et~al.
+\newblock Growing interfaces uncover universal fluctuations behind scale
+  invariance.
+\newblock {\em Sci Rep}, 34, 2011.
+
+\bibitem{ETYMOinterface}
+Etymonline.
+\newblock Interface, 2022.
+\newblock \href{https://www.etymonline.com/word/interface}{link}.
+
+\bibitem{haferkamp2022linear}
+Jonas Haferkamp, Philippe Faist, Naga~BT Kothakonda, Jens Eisert, and Nicole
+  Yunger~Halpern.
+\newblock Linear growth of quantum circuit complexity.
+\newblock {\em Nature Physics}, pages 1--5, 2022.
+
+\bibitem{heims1980john}
+S.J. Heims, J.~Von~Neumann, and N.~Wiener.
+\newblock {\em John Von Neumann and Norbert Wiener: From Mathematics to the
+  Technologies of Life and Death}.
+\newblock MIT Press, 1980.
+
+\bibitem{hofstadter2000godel}
+D.R. Hofstadter.
+\newblock {\em G\"{o}del, Escher, Bach: An Eternal Golden Braid}.
+\newblock Harvester studies in cognitive science. Penguin, 2000.
+
+\bibitem{hofstadter1981mind}
+D.R. Hofstadter and D.C. Dennett.
+\newblock {\em The Mind's I: Fantasies and Reflections on Self and Soul}.
+\newblock Number v. 1 in Penguin Press Science Series. Penguin Books, 1981.
+
+\bibitem{honavar1995}
+Vasant Honavar.
+\newblock Symbolic artificial intelligence and numeric artificial neural
+  networks: Towards a resolution of the dichotomy.
+\newblock {\em researchgate.net}, 07 1995.
+\newblock a note to \cite{Cheng2016}, for analogy we could say that
+  semantic/symbolic systems are very good in context but lacking in
+  generalizability. While semantic-free systems are still very good at context
+  while enabling generalizability.
+
+\bibitem{KAZUKIselfrefweights}
+Kazuki Irie, Imanol Schlag, Róbert Csordás, and Jürgen Schmidhuber.
+\newblock A modern self-referential weight matrix that learns to modify itself,
+  2022.
+
+\bibitem{PhysRevLett.56.889}
+Mehran Kardar, Giorgio Parisi, and Yi-Cheng Zhang.
+\newblock Dynamic scaling of growing interfaces.
+\newblock {\em Phys. Rev. Lett.}, 56:889--892, Mar 1986.
+
+\bibitem{Thakare20212}
+Sanjay Thakare. Arvind~W. Kiwelekar.
+\newblock Discovery of layered software architecture from source code using ego
+  networks.
+\newblock {\em Arxiv}, 2021.
+\newblock \href{https://arxiv.org/abs/2106.03040}{link}.
+
+\bibitem{Thakare2021}
+Sanjay Thakare. Arvind~W. Kiwelekar.
+\newblock Redefining measures of layered architecture.
+\newblock {\em Arxiv}, 2021.
+\newblock \href{https://arxiv.org/abs/2106.03079}{link}.
+
+\bibitem{leydesdorff2021evolutionary}
+L.~Leydesdorff.
+\newblock {\em The Evolutionary Dynamics of Discursive Knowledge:
+  Communication-Theoretical Perspectives on an Empirical Philosophy of
+  Science}.
+\newblock Qualitative and Quantitative Analysis of Scientific and Scholarly
+  Communication. Springer International Publishing, 2021.
+\newblock one example, Chapter 4 Towards a Calculus of Redundancy; but also
+  Bernard Scott’s Cybernetics for the Social Science.
+
+\bibitem{lingam2021life}
+M.~Lingam and A.~Loeb.
+\newblock {\em Life in the Cosmos: From Biosignatures to Technosignatures}.
+\newblock Harvard University Press, 2021.
+\newblock and authors in references.
+
+\bibitem{nguyen2008global}
+Thanh Nguyen, Timo Wolf, and Daniela Damian.
+\newblock Global software development and delay: Does distance still matter?
+\newblock In {\em 2008 IEEE International Conference on Global Software
+  Engineering}, pages 45--54. IEEE, 2008.
+
+\bibitem{QuantaGraphs}
+Stephen Ornes.
+\newblock How big data carried graph theory into new dimensions, 2022.
+\newblock
+  \href{https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819}{link}.
+
+\bibitem{benanti2018realt}
+Benanti P.
+\newblock {\em Realt{\`a} sintetica: dall'aspirina alla vita : come ricreare il
+  mondo?}
+\newblock Le Navi. Castelvecchi, 2018.
+
+\bibitem{Pentland2020}
+Brian Pentland, Peng Liu, Waldemar Kremser, and Thorvald Hærem.
+\newblock The dynamics of drift in digitized processes.
+\newblock {\em MIS Quarterly}, 44:19--47, 01 2020.
+\newblock \textquote{By drift, we mean that the way a process is performed
+  tends to change over time. Drift has been documented in a large variety of
+  digitized processes, such as product development and design (Baxter and
+  Berente 2010; D’Adderio 2003; Leonardi 2011), logistics (Ferneley and
+  Sobreprerez 2006), procurement (Berente et al. 2016), clinical routines in
+  healthcare (Goh et al. 2011; Halbesleben et al. 2008; Koppel et al. 2008),
+  insurance underwriting and claims processing (Bose et al. 2011; Lyytinen and
+  Newman 2008), invoice processing (Pentland et al. 2011), and business
+  processes in general (Boudreau and Robey 2005; Ciborra et al. 2000; Lyytinen
+  et al. 2009; Orlikowski 1996, 2000; Petrides et al. 2004; Volkoff et al.
+  2007). Drift happens, and it can be beneficial or harmful depending on the
+  circumstances. It is a basic mechanism for learning and adaptation (Bickhard
+  and Campbell 2003; Pentland et al. 2012), but it is also possible to drift
+  into disaster, when incremental changes in practices lead to unexpected
+  outcomes (Dekker 2013; Dekker and Pruchnicki 2014).}
+
+\bibitem{PlatoConnectionism}
+Plato.stanford.edu.
+\newblock Connectionism, 2022.
+\newblock \href{https://plato.stanford.edu/entries/connectionism/}{link}.
+
+\bibitem{ABADIdiffdataflow}
+Martin Abadi. Frank McSherry. Gordon~D Plotkin.
+\newblock Foundations of differential dataflow.
+\newblock {\em OSSACS 2015, LNCS 9034}, 2015.
+\newblock
+  \href{https://link.springer.com/content/pdf/10.1007%2F978-3-662-46678-0_5.pdf}{link}.
+
+\bibitem{Andrewng}
+Gil Press.
+\newblock Andrew ng launches a campaign for data-centric ai, 2022.
+\newblock
+  \href{https://www.forbes.com/sites/gilpress/2021/06/16/andrew-ng-launches-a-campaign-for-data-centric-ai/}{link}.
+
+\bibitem{savagebreaking}
+Neil Savage.
+\newblock Breaking into the black box of artificial intelligence.
+\newblock {\em Nature}, 2022.
+
+\bibitem{ScholarMultilevel}
+Google Scholar.
+\newblock biology+multilevel+selection, 2022.
+\newblock
+  \href{https://scholar.google.co.uk/scholar?q=biology+multilevel+selection}{link}.
+
+\bibitem{schreiber2004towards}
+Falk Schreiber and Henning Schwobbermeyer.
+\newblock Towards motif detection in networks: Frequency concepts and flexible
+  search.
+\newblock {\em Proc. Intl. Wsh. Network Tools and Applications in Biology
+  (NETTAB’04)}, pages 91--102, 2004.
+
+\bibitem{Shchurov2015}
+Andrey~A Shchurov.
+\newblock A multilayer model of computer networks.
+\newblock {\em International Journal of Computer Trends and Technology (IJCTT)
+  – Volume 26 Number 1}, 2015.
+\newblock \href{https://arxiv.org/pdf/1509.00721.pdf}{link}.
+
+\bibitem{TONONIintegrated}
+Giulio Tononi.~Olaf Sporns.
+\newblock Measuring information integration.
+\newblock {\em BMC neuroscience vol. 4}, 2003.
+\newblock see also subsequent updates to IIT.
+
+\bibitem{SUNsymconn}
+Ron Sun.
+\newblock Artificial intelligence: Connectionist and symbolic approaches.
+\newblock {\em International Encyclopedia of the Social \& Behavioral
+  Sciences}, 04 2000.
+\newblock For one of the most important experiments in symbolic AI see Cyc and
+  OpenCyc.
+
+\bibitem{Lanthi2006}
+Lanthi Tsimpli and Antonella Sorace.
+\newblock Differentiating interfaces: L2 performance in syntax-semantics and
+  syntax-discourse phenomena.
+\newblock In D~Bamman, T~Magnitskaia, and C~Zaller, editors, {\em BUCLD 27:
+  BUCLID 30: Proceedings of the Annual Boston University Conference on Language
+  Development}, volume Vols 1 and 2 of {\em Proceedings of the Annual Boston
+  University Conference on Language Development}. Cascadilla Press, 2006.
+
+\bibitem{UMPLEBYcybUSA}
+Stuart~A. Umpleby.
+\newblock A brief history of cybernetics in the united states.
+\newblock {\em Austrian Journal of Contemporary History}, 2008.
+\newblock
+  \href{https://cpb-us-e1.wpmucdn.com/blogs.gwu.edu/dist/d/257/files/2016/11/2008-Albert-Mueller-History-of-Cybernetics-in-US-3-2jk074s.pdf}{link}.
+
+\bibitem{EOLSSvallee}
+R.~Vall\'{e}e.
+\newblock Systems science and cybernetics – vol. iii - history of
+  cybernetics, 2005.
+\newblock
+  \href{https://www.eolss.net/sample-chapters/c02/E6-46-03-01.pdf}{link}.
+
+\bibitem{VocabInterface}
+Vocabulary.com.
+\newblock Interface, 2022.
+\newblock \href{https://www.vocabulary.com/dictionary/interface}{link}.
+
+\bibitem{WIKIbandwidth}
+Wikipedia.
+\newblock Bandwidth, 2022.
+\newblock \href{https://en.wikipedia.org/wiki/Bandwidth_(computing)}{link}.
+
+\bibitem{WIKIsymbolic}
+Wikipedia.
+\newblock Symbolic artificial intelligence, 2022.
+\newblock
+  \href{https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence}{link}.
+
+\bibitem{enwiki:1083004803}
+{Wikipedia contributors}.
+\newblock Explainable artificial intelligence --- {Wikipedia}{,} the free
+  encyclopedia, 2022.
+\newblock [Online; accessed 20-April-2022].
+
+\bibitem{10.1086/286046}
+David~Sloan Wilson.
+\newblock Introduction: Multilevel selection theory comes of age.
+\newblock {\em The American Naturalist}, 150(S1):s1--s21, 1997.
+
+\bibitem{SLOANdarwin}
+David~Sloan Wilson.
+\newblock {\em Darwin's cathedral : evolution, religion, and the nature of
+  society}.
+\newblock University of Chicago Press, 2002.
+
+\bibitem{doi:10.1111}
+David~Sloan Wilson, Mark~Van Vugt, and Rick O'Gorman.
+\newblock Multilevel selection theory and major evolutionary transitions:
+  Implications for psychological science.
+\newblock {\em Current Directions in Psychological Science}, 17(1):6--9, 2008.
+
+\end{thebibliography}
