@@ -191,6 +191,17 @@ Benanti P.
   mondo?}
 \newblock Le Navi. Castelvecchi, 2018.
 
+\bibitem{Pearl2010}
+Judea Pearl.
+\newblock An introduction to causal inference.
+\newblock {\em Int. J. Biostat. The international journal of biostatistics},
+  pages Article 7, Vol. 6 Issue 2, 2010.
+
+\bibitem{Pearl2018}
+Judea Pearl.
+\newblock Theoretical impediments to machine learning with seven sparks from
+  the causal revolution, 2018.
+
 \bibitem{Pentland2020}
 Brian Pentland, Peng Liu, Waldemar Kremser, and Thorvald Hærem.
 \newblock The dynamics of drift in digitized processes.
