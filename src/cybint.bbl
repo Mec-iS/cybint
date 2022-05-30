@@ -38,7 +38,7 @@ N.~Chomsky.
 \bibitem{Conway1967HOWDC}
 Melvin~E. Conway.
 \newblock How do committees invent.
-\newblock 1967.
+\newblock {\em Datamation}, 1967.
 
 \bibitem{CS166dyngraphs}
 Stanford CS166.
@@ -201,6 +201,11 @@ Benanti P.
 \newblock {\em Realt{\`a} sintetica: dall'aspirina alla vita : come ricreare il
   mondo?}
 \newblock Le Navi. Castelvecchi, 2018.
+
+\bibitem{pearl2009causality}
+Judea Pearl.
+\newblock {\em Causality}.
+\newblock Cambridge university press, 2009.
 
 \bibitem{Pearl2010}
 Judea Pearl.

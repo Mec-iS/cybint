@@ -3,46 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: cybint.aux
 The style file: plain.bst
 Database file #1: refs.bib
-Warning--empty booktitle in Conway1967HOWDC
-You've used 56 entries,
+You've used 57 entries,
             2118 wiz_defined-function locations,
-            833 strings with 14639 characters,
-and the built_in function-call counts, 14755 in all, are:
-= -- 1445
-> -- 562
+            838 strings with 14706 characters,
+and the built_in function-call counts, 14946 in all, are:
+= -- 1465
+> -- 569
 < -- 7
-+ -- 239
-- -- 173
-* -- 750
-:= -- 2516
-add.period$ -- 191
-call.type$ -- 56
-change.case$ -- 238
++ -- 242
+- -- 175
+* -- 758
+:= -- 2555
+add.period$ -- 194
+call.type$ -- 57
+change.case$ -- 241
 chr.to.int$ -- 0
 cite$ -- 57
-duplicate$ -- 625
-empty$ -- 1297
-format.name$ -- 173
-if$ -- 3143
+duplicate$ -- 634
+empty$ -- 1310
+format.name$ -- 175
+if$ -- 3181
 int.to.chr$ -- 0
-int.to.str$ -- 56
-missing$ -- 57
-newline$ -- 296
-num.names$ -- 114
-pop$ -- 350
+int.to.str$ -- 57
+missing$ -- 59
+newline$ -- 301
+num.names$ -- 116
+pop$ -- 353
 preamble$ -- 1
-purify$ -- 197
+purify$ -- 200
 quote$ -- 0
-skip$ -- 445
+skip$ -- 451
 stack$ -- 0
-substring$ -- 646
-swap$ -- 110
+substring$ -- 651
+swap$ -- 111
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 194
-warning$ -- 1
-while$ -- 139
-width$ -- 58
-write$ -- 612
-(There was 1 warning)
+type$ -- 196
+warning$ -- 0
+while$ -- 141
+width$ -- 59
+write$ -- 623
