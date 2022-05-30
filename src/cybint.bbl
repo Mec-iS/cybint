@@ -8,6 +8,12 @@ Scott Aaronson.
   what happens if you try to come up with a theory that is like probability
   theory but based on a 2-norm (Euclidean norm)?}
 
+\bibitem{Wolfram2020}
+Stephen~Wolfram and.
+\newblock A class of models with the potential to represent fundamental
+  physics.
+\newblock {\em Complex Systems}, 29(2):107--536, jun 2020.
+
 \bibitem{ashby1991principles}
 W~Ross Ashby.
 \newblock Principles of the self-organizing system.
@@ -28,6 +34,11 @@ N.~Chomsky.
 \newblock {\em Syntactic Structures}.
 \newblock Janua linguarum: Series minor. Martino Fine Books, 2015.
 \newblock paragraph 2.4.
+
+\bibitem{Conway1967HOWDC}
+Melvin~E. Conway.
+\newblock How do committees invent.
+\newblock 1967.
 
 \bibitem{CS166dyngraphs}
 Stanford CS166.

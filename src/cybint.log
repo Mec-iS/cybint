@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.8)  3 MAY 2022 14:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.8)  30 MAY 2022 11:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -976,14 +976,14 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
 36.
  (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
+) [6]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <14.4> on input line 174.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 174.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 174.
- [6]
+
 [7] [8]
 Package epstopdf Info: Source file: <Fig__1_connected_elements.eps>
 (epstopdf)                    date: 2022-04-09 17:14:53
@@ -996,7 +996,7 @@ Package epstopdf Info: Source file: <Fig__1_connected_elements.eps>
 eps-converted-to.pdf Fig__1_connected_elements.eps>
 (epstopdf)             \includegraphics on input line 181.
 Package epstopdf Info: Output file is already uptodate.
-<Fig__1_connected_elements-eps-converted-to.pdf, id=96, 999.735pt x 1039.885pt>
+<Fig__1_connected_elements-eps-converted-to.pdf, id=98, 999.735pt x 1039.885pt>
 
 File: Fig__1_connected_elements-eps-converted-to.pdf Graphic file (type pdf)
 <use Fig__1_connected_elements-eps-converted-to.pdf>
@@ -1014,7 +1014,7 @@ Package epstopdf Info: Source file: <Fig__2_connected_groups-2.eps>
 eps-converted-to.pdf Fig__2_connected_groups-2.eps>
 (epstopdf)             \includegraphics on input line 187.
 Package epstopdf Info: Output file is already uptodate.
-<Fig__2_connected_groups-2-eps-converted-to.pdf, id=97, 682.55pt x 638.385pt>
+<Fig__2_connected_groups-2-eps-converted-to.pdf, id=99, 682.55pt x 638.385pt>
 File: Fig__2_connected_groups-2-eps-converted-to.pdf Graphic file (type pdf)
 <use Fig__2_connected_groups-2-eps-converted-to.pdf>
 Package pdftex.def Info: Fig__2_connected_groups-2-eps-converted-to.pdf  used o
@@ -1032,7 +1032,7 @@ Package epstopdf Info: Source file: <Fig__3_a_system-2.eps>
 erted-to.pdf Fig__3_a_system-2.eps>
 (epstopdf)             \includegraphics on input line 222.
 Package epstopdf Info: Output file is already uptodate.
-<Fig__3_a_system-2-eps-converted-to.pdf, id=119, 1240.635pt x 722.7pt>
+<Fig__3_a_system-2-eps-converted-to.pdf, id=121, 1240.635pt x 722.7pt>
 File: Fig__3_a_system-2-eps-converted-to.pdf Graphic file (type pdf)
 <use Fig__3_a_system-2-eps-converted-to.pdf>
 Package pdftex.def Info: Fig__3_a_system-2-eps-converted-to.pdf  used on input 
@@ -1069,7 +1069,7 @@ Package epstopdf Info: Source file: <Fig__4_cybernetic_systems.eps>
 eps-converted-to.pdf Fig__4_cybernetic_systems.eps>
 (epstopdf)             \includegraphics on input line 293.
 Package epstopdf Info: Output file is already uptodate.
-<Fig__4_cybernetic_systems-eps-converted-to.pdf, id=148, 1188.44pt x 650.43pt>
+<Fig__4_cybernetic_systems-eps-converted-to.pdf, id=150, 1188.44pt x 650.43pt>
 File: Fig__4_cybernetic_systems-eps-converted-to.pdf Graphic file (type pdf)
 <use Fig__4_cybernetic_systems-eps-converted-to.pdf>
 Package pdftex.def Info: Fig__4_cybernetic_systems-eps-converted-to.pdf  used o
@@ -1092,22 +1092,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 514--518
 
  []
 
-
-LaTeX Warning: Citation `Wolfram2020' on page 30 undefined on input line 523.
-
 [30] [31] (./cybint.bbl [32]
-Underfull \hbox (badness 1622) in paragraph at lines 90--93
+Underfull \hbox (badness 1622) in paragraph at lines 101--104
 []\T1/lmr/m/n/14.4 Ulrik Bran-des. Thomas Er-lebach.  \T1/lmr/m/it/14.4 Net-wor
 k Anal-y-sis\T1/lmr/m/n/14.4 .  Springer-Verlag
  []
 
-
-Underfull \hbox (badness 1838) in paragraph at lines 161--169
+[33]
+Underfull \hbox (badness 1838) in paragraph at lines 172--180
 []\T1/lmr/m/n/14.4 L. Ley-des-dorff.  \T1/lmr/m/it/14.4 The Evo-lu-tion-ary Dy-
 nam-ics of Dis-cur-sive Knowl-edge:
  []
 
-[33] [34] [35]) 
+[34] [35]) 
 AED: lastpage setting LastPage
 [36]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 531.
@@ -1117,17 +1114,13 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 531.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 531.
 Package rerunfilecheck Info: File `cybint.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Warning: There were undefined references.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 531.
  ) 
 Here is how much of TeX's memory you used:
- 28708 strings out of 481239
- 681253 string characters out of 5920378
- 1055663 words of memory out of 5000000
- 43306 multiletter control sequences out of 15000+600000
+ 28712 strings out of 481239
+ 681319 string characters out of 5920378
+ 1055735 words of memory out of 5000000
+ 43308 multiletter control sequences out of 15000+600000
  594192 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  78i,11n,136p,2632b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1140,10 +1133,10 @@ pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></
 usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/p
 ublic/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on cybint.pdf (37 pages, 612214 bytes).
+Output written on cybint.pdf (37 pages, 612536 bytes).
 PDF statistics:
- 469 PDF objects out of 1000 (max. 8388607)
- 409 compressed objects within 5 object streams
- 121 named destinations out of 1000 (max. 500000)
+ 473 PDF objects out of 1000 (max. 8388607)
+ 413 compressed objects within 5 object streams
+ 123 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
