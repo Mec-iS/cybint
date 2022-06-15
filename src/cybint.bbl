@@ -125,6 +125,16 @@ S.J. Heims, J.~Von~Neumann, and N.~Wiener.
   Technologies of Life and Death}.
 \newblock MIT Press, 1980.
 
+\bibitem{hofstadter_gdel_1979}
+Douglas~R. Hofstadter.
+\newblock {\em Gödel, Escher, Bach: an Eternal Golden Braid}.
+\newblock Basic Books Inc., 1979.
+
+\bibitem{Hofstadter1981_HOFTMI_2}
+Douglas~R. Hofstadter and Daniel~Clement Dennett.
+\newblock {\em The Mind's I: Fantasies and Reflections on Self and Soul}.
+\newblock Basic Books, 1981.
+
 \bibitem{hofstadter2000godel}
 D.R. Hofstadter.
 \newblock {\em G\"{o}del, Escher, Bach: An Eternal Golden Braid}.
@@ -167,6 +177,13 @@ Sanjay Thakare. Arvind~W. Kiwelekar.
 \newblock Redefining measures of layered architecture.
 \newblock {\em Arxiv}, 2021.
 \newblock \href{https://arxiv.org/abs/2106.03079}{link}.
+
+\bibitem{QuantaFlow}
+Erica Klarreich.
+\newblock Researchers achieve ‘absurdly fast’ algorithm for network flow,
+  2022.
+\newblock
+  \href{https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/}{link}.
 
 \bibitem{leydesdorff2021evolutionary}
 L.~Leydesdorff.
