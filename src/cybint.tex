@@ -237,7 +237,7 @@ This section is only to review the mapping between graphs and linear representat
 \label{subsec:channels}
 \hspace*{15mm}The arrows in the diagrams (Fig.\ref{fig:fig1} and subsequent) are what can be called channels (the same as connections for the purpose of this text).
 \newline
-\hspace*{15mm}\(A\) and \(B\) can themselves be connected components. Any element of \(A\) can have a connection to any other element of \(B\), this establishes a channel (in Shannon’s vocabulary) between the groups: \(w’\) is the average (for simplicity, or any other synthetic measure for a collection of values) weight of the connections between elements of \(A\) and \(B\) and by definition the average available bandwidth between the groups.
+\hspace*{15mm}\(A\) and \(B\) can themselves be connected components. Any element of \(A\) can have a connection to any other element of \(B\), this establishes a channel (in Shannon’s vocabulary) between the groups: \(w’\) is the mean (for simplicity, or any other synthetic measure for a collection of values) weight of the connections between elements of \(A\) and \(B\) and by definition the average available bandwidth between the groups.
 \newline
 \hspace*{15mm}\(A\) and \(B\) are then a system \(S\) if exist at least one relevant connection between two of their elements, \(A\) and \(B\) are components of a system.
 \newline 
@@ -275,7 +275,7 @@ for any element of \(B\): \(b_i \rightarrow b_j\) has a capacity of \(w_B\).\\
 If \(w_A \neq w_B\), by definition \(A\) and \(B\) are different groups or systems if \(w_A - w_B \neq 0\) and this difference is relevant considering the span of the observation.
 \end{center}
 
-\hspace*{15mm}Panning the attention of the experiment wider at the slightly larger scale from the group, if we extend this to define a system between groups, by definition: the connectivity between the groups \(A\) and \(B\), taken for simplicity as the average $\mu$ of the weights of the channels between their elements can be described as:
+\hspace*{15mm}Panning the attention of the experiment wider at the slightly larger scale from the group, if we extend this to define a system between groups, by definition: the connectivity between the groups \(A\) and \(B\), taken for simplicity as the mean $\mu$ of the weights of the channels between their elements can be described as:
 \[\mu(w_{AB}) < w_A \wedge \mu(w_{AB}) < w_B\]
 That is why \(A\) and \(B\) are observed as different groups as their inner connections work at different bandwidth compared to the connection with out-group elements (of the other group); the two groups have by definition a lower bandwidth channel to communicate out-group. They are by construction two different groups. So that again at system scale:
 \begin{center}
