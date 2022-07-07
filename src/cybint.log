@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.8)  17 JUN 2022 10:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.8)  7 JUL 2022 14:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1097,10 +1097,10 @@ Package rerunfilecheck Info: File `cybint.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 567.
  ) 
 Here is how much of TeX's memory you used:
- 28763 strings out of 481239
- 682196 string characters out of 5920378
- 1056238 words of memory out of 5000000
- 43346 multiletter control sequences out of 15000+600000
+ 28765 strings out of 481239
+ 682247 string characters out of 5920378
+ 1057283 words of memory out of 5000000
+ 43347 multiletter control sequences out of 15000+600000
  594192 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  78i,12n,136p,1960b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1114,10 +1114,10 @@ type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></
 usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/p
 ublic/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/sha
 re/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on cybint.pdf (39 pages, 644033 bytes).
+Output written on cybint.pdf (39 pages, 644390 bytes).
 PDF statistics:
- 504 PDF objects out of 1000 (max. 8388607)
- 441 compressed objects within 5 object streams
- 131 named destinations out of 1000 (max. 500000)
+ 506 PDF objects out of 1000 (max. 8388607)
+ 443 compressed objects within 5 object streams
+ 132 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

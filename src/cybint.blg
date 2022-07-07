@@ -3,44 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: cybint.aux
 The style file: plain.bst
 Database file #1: refs.bib
-You've used 61 entries,
+You've used 62 entries,
             2118 wiz_defined-function locations,
-            857 strings with 15266 characters,
-and the built_in function-call counts, 15880 in all, are:
-= -- 1551
-> -- 609
+            865 strings with 15430 characters,
+and the built_in function-call counts, 16177 in all, are:
+= -- 1583
+> -- 616
 < -- 7
-+ -- 259
-- -- 187
-* -- 802
-:= -- 2719
-add.period$ -- 207
-call.type$ -- 61
-change.case$ -- 257
++ -- 262
+- -- 189
+* -- 824
+:= -- 2768
+add.period$ -- 210
+call.type$ -- 62
+change.case$ -- 261
 chr.to.int$ -- 0
-cite$ -- 61
-duplicate$ -- 675
-empty$ -- 1394
-format.name$ -- 187
-if$ -- 3377
+cite$ -- 62
+duplicate$ -- 686
+empty$ -- 1421
+format.name$ -- 189
+if$ -- 3438
 int.to.chr$ -- 0
-int.to.str$ -- 61
-missing$ -- 64
-newline$ -- 322
-num.names$ -- 124
-pop$ -- 381
+int.to.str$ -- 62
+missing$ -- 65
+newline$ -- 327
+num.names$ -- 126
+pop$ -- 383
 preamble$ -- 1
-purify$ -- 214
+purify$ -- 217
 quote$ -- 0
-skip$ -- 480
+skip$ -- 487
 stack$ -- 0
-substring$ -- 672
-swap$ -- 115
+substring$ -- 702
+swap$ -- 116
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 208
+type$ -- 212
 warning$ -- 0
-while$ -- 149
-width$ -- 63
-write$ -- 666
+while$ -- 153
+width$ -- 64
+write$ -- 677
