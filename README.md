@@ -1,5 +1,5 @@
 # cybint
-A paper about how Machine Learning and philosophical research. 
+A paper about the historical and philosophical background of Machine Learning and machine intelligence. 
 
 ## Abstract
 Human activities are progressively defined by interactions with products that
