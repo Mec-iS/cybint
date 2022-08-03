@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.8)  3 AUG 2022 16:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.4.8)  3 AUG 2022 17:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1087,23 +1087,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 550--554
 
 AED: lastpage setting LastPage
 [40]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 584.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 584.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 586.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 586.
  (./cybint.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 584.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 584.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 586.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 586.
 Package rerunfilecheck Info: File `cybint.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 584.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 586.
  ) 
 Here is how much of TeX's memory you used:
  28773 strings out of 481239
  682373 string characters out of 5920378
- 1057400 words of memory out of 5000000
+ 1057403 words of memory out of 5000000
  43350 multiletter control sequences out of 15000+600000
  594192 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,12n,136p,3248b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 78i,12n,136p,2612b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/s
 hare/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/l
@@ -1114,7 +1114,7 @@ type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></
 usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/p
 ublic/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/sha
 re/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on cybint.pdf (41 pages, 648549 bytes).
+Output written on cybint.pdf (41 pages, 649492 bytes).
 PDF statistics:
  520 PDF objects out of 1000 (max. 8388607)
  455 compressed objects within 5 object streams
